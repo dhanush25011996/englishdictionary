@@ -24,7 +24,7 @@ font-size: 30px;
 }
 .input{
     height: 53px;
-    width: 300px;
+    width:50%;
     background-color:rgba(255,255,255,0.6);
     border-color: rgba(95.7,64.3,37.6,0.7);
     font-size: 20px;
